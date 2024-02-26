@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fmt"
 	"github.com/entryff/mymath/mymath"
+	"fmt"
 )
 
 func main() {
