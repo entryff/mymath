@@ -1,4 +1,4 @@
-module github.com/entryff/mymath
+module github.com/entryff/mymath/mymath
 
 go 1.19
 
