@@ -1,3 +1,3 @@
-module github.com/entryff/mymath
+module github.com/entryff/mymath v1.0.0
 
 go 1.19
